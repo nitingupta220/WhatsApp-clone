@@ -1,0 +1,175 @@
+body{
+  font-family: ubuntu;
+  margin: 0;
+}
+a{
+  color: #fff;
+  text-decoration: none;
+}
+a.one{
+  color:#1ebea5;
+}
+
+ul{
+    color: #fff;
+    font-family: ubuntu;
+    list-style: none;
+}
+ul.one{
+  color:#1ebea5;
+  font-size: 20px;
+}
+ul.header{
+  font-size: 13px;
+  font-weight: bold;
+
+}
+li.one{
+  color: #fff;
+  margin: 30px;
+}
+li{
+  line-height: 25px;
+
+}
+.two{
+  font-size: 17px;
+  line-height: 44px;
+
+}
+
+.flex-container-header{
+    background-color: #1ebea5;
+  display: flex;
+    height: 90px;
+  justify-content: space-around;
+  left: 0;
+  position: fixed;
+    right: 0;
+  top: 0;
+}
+.header{
+  display: flex;
+
+}
+.flex-item1{
+  padding: 35px;
+}
+.flex-container-middle{
+display: flex;
+justify-content: center;
+padding: 170px;
+
+}
+.flex-item3{
+  margin:50px;
+  padding-top: 40px;
+  }
+.flex-item4{
+  margin: 5px;
+}
+.firstimage{width: 330px;
+}
+.firstimage1{
+  width: 101%
+
+}
+.firstimage2{
+  width: 300px;
+}
+.flex-container-middle1{
+ display: flex;
+ justify-content: center;
+  text-align: center;
+ }
+.flex-item5{
+
+ background-color: #d0e9ea;
+ margin-right: 15px;
+ padding-top: 20px;
+ width: 650px;
+
+}
+.flex-item6{
+
+ background-color: #d0e9ea;
+ margin-right: 15px;
+ padding-top: 20px;
+ width: 650px;
+
+}
+.flex-container-footer{
+background-color: #232f3c;
+ display: flex;
+  justify-content: center;
+
+}
+
+.footer-ul{  font-size: 14px;
+  margin: 55px;
+   position: relative;
+  right: 180px;
+  }
+.flex-container5{  background-color: #0d0d0d;
+  display: flex;
+  justify-content: center;
+
+
+}
+.flex-item7{
+  padding: 10px;
+  padding-left: 80px;
+  position: relative;
+  right: 400px;
+}
+.flex-item8{
+margin-left: 60px;
+ padding: 25px;
+ position: relative;
+ right: 400px;
+
+}
+p{
+  color: #282828;
+  font-weight: normal;
+  line-height: 28px;
+}
+.three{  color: #454545;
+  font-size: 12px;
+  opacity: 0.5;
+}
+h5{
+  color: #CBC4C4;
+  font-size: 12px;
+  position: relative;
+  right: 90px;
+  top: 20px;
+}
+.four{
+  font-size: 14px;
+  line-height: 22px;
+}
+.icon{
+  font-weight: bolder;
+  vertical-align: text-top;
+}
+.button{
+  display: flex;
+  justify-content: center;
+  margin: 70px;
+}
+.large{  background-color: white;
+  border: 2px solid #1ebea5;
+  border-radius: 60px;
+  color: #1ebea5;
+  font-family: ubuntu;
+  font-size: 18px;
+  padding: 20px 30px 20px 30px;
+}
+h1{
+  font-weight: lighter;
+}
+.flex-container-android{
+  position: relative;
+  right: 45px;
+}
